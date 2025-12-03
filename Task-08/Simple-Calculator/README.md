@@ -99,7 +99,7 @@ Maine 4 tests perform kiye aur unke screenshots attach kiye hain:
 Example:  
 *5 + 5 = 10*
 
-![Addition](/Screenshots/Addition.png)
+![Addition](Addition.png)
 
 ---
 
@@ -107,7 +107,7 @@ Example:
 Example:  
 *10 - 3 = 7*
 
-![Subtraction](/Screenshots/subtraction.png)
+![Subtraction](Subtraction.png)
 
 ---
 
@@ -115,7 +115,7 @@ Example:
 Example:  
 *6 * 2 = 12*
 
-![Multiplication](/Screenshots/Multiplication.png)
+![Multiplication](Multiplication.png)
 
 ---
 
@@ -123,7 +123,7 @@ Example:
 Example:  
 *100 / 10 = 10*
 
-![Division](/Screenshots/Division.png)
+![Division](Division.png)
 
 ---
 
